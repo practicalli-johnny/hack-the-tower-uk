@@ -30,13 +30,13 @@ There are a number of projects that have already been worked on during the HackT
 <tr>
 <td><a href="projects/scala-community.website.html">Scala Community Website</a></td>
 <td>Play 2 framework, Scala, MongoDB, Neo4j, Heroku</td>
-<td><http://lsug.org/></td>
+<td><a href="http://lsug.org/">lsug.org</td>
 <td><a href="https://github.com/lsug-dojo/lsug-website">Github</a></td>
 </tr>
 <tr>
 <td><a href="london-clojurians-website.html">London Clojurians website</a></td>
 <td>Clojure, compojure, MongoDB</td>
-<td><a href="http://londonclojurians.org/"></a></td>
+<td><a href="http://londonclojurians.org/">londonclojurians.org</a></td>
 <td><a href="https://github.com/dalethatcher/ldncljweb">Github</a></td>
 </tr>
 <tr>
