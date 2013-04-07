@@ -31,7 +31,7 @@ There are a number of projects that have already been worked on during the HackT
 <td><a href="projects/scala-community.website.html">Scala Community Website</a></td>
 <td>Play 2 framework, Scala, MongoDB, Neo4j, Heroku</td>
 <td><http://lsug.org/></td>
-<td><a href="https://github.com/lsug-dojo/lsug-website"></a>Github</td>
+<td><a href="https://github.com/lsug-dojo/lsug-website">Github</a></td>
 </tr>
 <tr>
 <td><a href="london-clojurians-website.html">London Clojurians website</a></td>
@@ -43,13 +43,13 @@ There are a number of projects that have already been worked on during the HackT
 <td>Coding Board</td>
 <td>Scala, Scalatra, Twitter Bootstrap, Selenium Webdriver, Specs2, Heroku</td>
 <td><a href="http://codingboard.org/">Coding Board</a></td>
-<td><a href="https://github.com/balopat/codingboard"></a></td>
+<td><a href="https://github.com/balopat/codingboard">Github</a></td>
 </tr>
 <tr>
 <td>NAO Robots</td>
 <td>Robots, Python</td>
 <td><a href="http://www.aldebaran-robotics.com/en/">NAO Robot</td>
-<td></td>
+<td><a href="https://github.com/davesnowdon/">Github</a></td>
 </tr>
 <tr>
 <td></td>
