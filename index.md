@@ -14,10 +14,32 @@ London Java Community
 
 # Projects
 
-Name | Technology | website | source code
---- | --- | --- | ---
-[Scala community website](projects/scala-community-website.md) | Play 2 framework, Scala, MongoDB, Neo4j | <http://lsug.org/> | [github repo](https://github.com/lsug-dojo/lsug-website)
-London Clojurians website | Clojure, compojure, MongoDB | <http://londonclojurians.org/> | [github repo](https://github.com/dalethatcher/ldncljweb)
+<table border="1">
+<tr>
+<th>Name</td>
+<th>Technology</td>
+<th>Website</td>
+<th>Source Code</td>
+</tr>
+<tr>
+<td><a href="projects/scala-community.website.html">Scala Community Website</a></td>
+<td>Play 2 framework, Scala, MongoDB, Neo4j</td>
+<td><http://lsug.org/></td>
+<td><a href="https://github.com/lsug-dojo/lsug-website"></a>Github</td>
+</tr>
+<tr>
+<td><a href="london-clojurians-website.html">London Clojurians website</a></td>
+<td>Clojure, compojure, MongoDB</td>
+<td><http://londonclojurians.org/></td>
+<td><a href="https://github.com/dalethatcher/ldncljweb">Github</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 
 
