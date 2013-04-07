@@ -68,9 +68,30 @@ pre > code {
   body {
     font-family: serif;
   }
-  pre { 
+  pre {
     overflow-x: visible;
     overflow-y: visible;
     width: 98%;
   }
+}
+
+
+body
+{
+background-image:url('images/tower-42.png');
+background-repeat:no-repeat;
+background-position:right top;
+margin-right:200px;
+}
+
+
+table, td, th
+{
+border:1px solid blue;
+border-spacing:10px 50px;
+}
+th
+{
+background-color:blue;
+color:white;
 }

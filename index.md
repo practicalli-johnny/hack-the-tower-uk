@@ -14,7 +14,7 @@ London Java Community
 
 # Projects
 
-<table border="1">
+<table>
 <tr>
 <th>Name</td>
 <th>Technology</td>
