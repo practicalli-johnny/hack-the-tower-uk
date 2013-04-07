@@ -44,12 +44,12 @@ London Java Community
 
 
 # Rough Schedule
-10.00 - Find the Salesforce office in Tower42 (see access detals), refreshments after your adventure
-10.15 - Discuss your application ideas & how to build them.
-10.45 - Split into groups and get going
-13.00 - Lunch time (sandwiches, queche, fruit and drinks provided)
-13.30 - Keep on hacking until you have had enough
-16.00 - Show off projects (optional)
+* 10.00 - Find the Salesforce office in Tower42 (see below), refreshments after your adventure
+* 10.15 - Discuss your application ideas & how to build them.
+* 10.45 - Split into groups and get going
+* 13.00 - Lunch time (sandwiches, queche, fruit and drinks provided)
+* 13.30 - Keep on hacking until you have had enough
+* 16.00 - Show off projects (optional)
 
 
 # Important: Access details
