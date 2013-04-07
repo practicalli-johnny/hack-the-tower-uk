@@ -4,10 +4,14 @@
 
 A hack day for developers across all the technical communities in London to come together and build interesting apps and discover great technology by working together.  There are no rules and no prizes on offer, just a chance to work on something you value.
 
-Read about the HackTheTower event in February to get a feel for the event.
+The next HackTheTower event is: 13th April.
+
+Read about the [HackTheTower event in February 2013](http://blog.jr0cket.co.uk/2013/02/hack-tower-february-2013.html) to get a feel for the event.
 
 
 # Sign ups
+You can sign up for free at any of the following groups on meetup.com.
+
 * [London Salesforce Developers](http://www.meetup.com/LondonSalesforceDevelopers/)
 * [London Scala user groups](http://www.meetup.com/london-scala/)
 * [London Java Community](http://www.meetup.com/Londonjavacommunity/)
@@ -64,6 +68,8 @@ There are a number of projects that have already been worked on during the HackT
 
 
 # Rough Schedule
+The structure of the day is pretty open and follows this rough schedule:
+
 * 10.00 - Find the Salesforce office in Tower42 (see below), refreshments after your adventure
 * 10.15 - Discuss your application ideas & how to build them.
 * 10.45 - Split into groups and get going
