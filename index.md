@@ -14,8 +14,9 @@ London Java Community
 
 # Projects
 
-|Name|Technology|website|source code|
-|[Scala community website](projects/scala-community-website.md)| Play 2 framework, Scala, MongoDB, Neo4j|lsug.org|[github repo](https://github.com/lsug-dojo/lsug-website)|
+Name|Technology|website|source code
+---|---|---|---
+[Scala community website](projects/scala-community-website.md)| Play 2 framework, Scala, MongoDB, Neo4j|lsug.org|[github repo](https://github.com/lsug-dojo/lsug-website)
 
 
 
