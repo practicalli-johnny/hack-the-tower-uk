@@ -5,7 +5,7 @@ body {
 }
 
 body > p {
-  width: 95%;
+  width: 75%;
 }
 
 pre, code {
@@ -88,7 +88,7 @@ margin-right:200px;
 table, td, th
 {
 border:1px solid blue;
-border-spacing:10px 50px;
+border-spacing:10px 10px;
 }
 th
 {
