@@ -66,6 +66,8 @@ There are a number of projects that have already been worked on during the HackT
 </table>
 
 
+Add your own projects to the list with a pull request to the [Github project for this website](https://github.com/jr0cket/hack-the-tower-uk).
+
 
 # Rough Schedule
 The structure of the day is pretty open and follows this rough schedule:
