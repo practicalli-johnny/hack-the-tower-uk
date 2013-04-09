@@ -8,6 +8,7 @@ The next HackTheTower event is: 13th April.
 
 Read about the [HackTheTower event in February 2013](http://blog.jr0cket.co.uk/2013/02/hack-tower-february-2013.html) to get a feel for the event.
 
+**Twitter: @HackTheTower**  
 
 # Sign ups
 You can sign up for free at any of the following groups on meetup.com.
