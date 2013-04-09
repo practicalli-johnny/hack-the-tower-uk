@@ -5,8 +5,8 @@ body {
   background-image:url('images/tower-42.png');
   background-repeat:no-repeat;
   background-position:right top;
-  margin-right: 200px;
-  margin-left: 36px; 
+  margin-right: 240px;
+  margin-left: 42px; 
 }
 
 body > p {
