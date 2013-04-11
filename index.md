@@ -49,7 +49,7 @@ There are a number of projects that have already been worked on during the HackT
 <tr>
 <td>NAO Robots</td>
 <td>Robots, Python</td>
-<td><a href="http://www.aldebaran-robotics.com/en/">NAO Robot</td>
+<td><a href="http://www.aldebaran-robotics.com/en/">NAO Robot</a></td>
 <td><a href="https://github.com/davesnowdon/">Github</a></td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ There are a number of projects that have already been worked on during the HackT
 </table>
 
 
-Add your own projects to the list with a pull request to the [Github project for this website](https://github.com/jr0cket/hack-the-tower-uk).
+Please dd your own projects to the list with a pull request to the [Github project for this website](https://github.com/jr0cket/hack-the-tower-uk).
 
 
 # Rough Schedule
