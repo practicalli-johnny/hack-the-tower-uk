@@ -53,10 +53,10 @@ There are a number of projects that have already been worked on during the HackT
 <td><a href="https://github.com/davesnowdon/">Github</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Scalatron - fun with programmable bots</td>
+<td>Scala</td>
+<td>http://scalatron.github.io/</td>
+<td>https://github.com/scalatron/scalatron</td>
 </tr>
 <tr>
 <td></td>
