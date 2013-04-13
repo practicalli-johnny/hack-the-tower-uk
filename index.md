@@ -19,7 +19,7 @@ You can sign up for free at any of the following groups on meetup.com.
 
 
 # Projects
-There are a number of projects that have already been worked on during the HackTheTower hack day.  You can join in with one of these projects or start your own.
+There are a number of projects that have already been worked on during the HackTheTower hack day.  You can join in with one of these projects or start your own.  Alternatively you can just experiment with some language or technology that you're not familiar with.  Try to find someone to do things with though, as you learn more that way!
 
 <table>
 <tr>
