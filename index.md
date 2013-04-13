@@ -59,10 +59,10 @@ There are a number of projects that have already been worked on during the HackT
 <td><a href="https://github.com/scalatron/scalatron">Github</a></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Pedestal - Clojure web toolkit</td>
+<td>Clojure</td>
+<td><a href="http://pedestal.io/">Pedestal</a></td>
+<td><a href="https://github.com/pedestal/pedestal">Github</a></td>
 </tr>
 </table>
 
