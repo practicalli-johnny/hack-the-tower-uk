@@ -4,11 +4,11 @@
 
 A hack day for developers across all the technical communities in London to come together and build interesting apps and discover great technology by working together.  There are no rules and no prizes on offer, just a chance to work on something you value.
 
-The next HackTheTower event is: 13th April.
+The next HackTheTower event is: **8th June 2013**
 
 Read about the [HackTheTower event in February 2013](http://blog.jr0cket.co.uk/2013/02/hack-tower-february-2013.html) to get a feel for the event.
 
-**Twitter: @HackTheTower**  
+**Twitter: @HackTheTower**
 
 # Sign ups
 You can sign up for free at any of the following groups on meetup.com (please [mailto:john@jr0cket.co.uk](contact me) if you are an organiser and want to add this event to your meetup communtiy).
