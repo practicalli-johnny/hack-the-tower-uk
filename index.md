@@ -11,7 +11,7 @@ Read about the [HackTheTower event in February 2013](http://blog.jr0cket.co.uk/2
 **Twitter: @HackTheTower**
 
 # Sign ups
-You can sign up for free at any of the following groups on meetup.com (please [https://twitter.com/jr0cket](contact me) if you are an organiser and want to add this event to your meetup communtiy).
+You can sign up for free at any of the following groups on meetup.com (please [contact me](https://twitter.com/jr0cket) if you are an organiser and want to add this event to your meetup communtiy).
 
 * [London Salesforce Developers](http://www.meetup.com/LondonSalesforceDevelopers/)
 * [London Scala user groups](http://www.meetup.com/london-scala/)
