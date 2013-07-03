@@ -1,6 +1,60 @@
-<link href="index.css" rel="stylesheet" type="text/css">
+  <head>
+    <meta charset="utf-8">
+    <title>Bootstrap, from Twitter</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-# Hack the Tower
+    <!-- Styles -->
+    <link href="index.css" rel="stylesheet" rel="stylesheet">
+
+    <!-- Bootstrap via Content Delivery Network (CDN) -->
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
+    
+    <!-- stylesheet includes if Bootstrap is in local project 
+    <link href="../assets/js/bootstrap-min.css" rel="stylesheet">
+    --> 
+    
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
+  </head>
+
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="#">Hack the Tower</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="#about">Projects</a></li>
+              <li><a href="#communities">Communities</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+    </div> <!-- top navbar -->
+
 
 A hack day for developers across all the technical communities in London to come together and build interesting apps and discover great technology by working together.  There are no rules and no prizes on offer, just a chance to work on something you value.
 
@@ -94,3 +148,28 @@ Go to the far right and go through building security, your bag will be scanned a
 Once through security, take the escalators immediately to your left - following the blue path.  Walk all the way round to lifts and take the lift to the 24th floor.
 
 At the 24th floor, get out of the lift and cross the hallway.  Take the blue lifts to the 27th floor.  Exiting the lift to your left you will find the Salesforce office.
+
+
+    <!-- JavaScript libraries for Bootstrap -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+    <!-- Bootstrap Content Delivery Network -->
+    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+
+    <!-- If Bootstrap is available as part of the project 
+    <script src="../assets/js/jquery.js"></script>
+    <script src="../assets/js/bootstrap-min.js"></script>
+    <script src="../assets/js/bootstrap-alert.js"></script>
+    <script src="../assets/js/bootstrap-modal.js"></script>
+    <script src="../assets/js/bootstrap-dropdown.js"></script>
+    <script src="../assets/js/bootstrap-scrollspy.js"></script>
+    <script src="../assets/js/bootstrap-tab.js"></script>
+    <script src="../assets/js/bootstrap-tooltip.js"></script>
+    <script src="../assets/js/bootstrap-popover.js"></script>
+    <script src="../assets/js/bootstrap-button.js"></script>
+    <script src="../assets/js/bootstrap-collapse.js"></script>
+    <script src="../assets/js/bootstrap-carousel.js"></script>
+    <script src="../assets/js/bootstrap-typeahead.js"></script>
+    --> 
+
+  </body>
